@@ -1,4 +1,4 @@
-Note: **Site is Currently down** :/ Got trouble while adding domain from GitHub settings
+Note: **Site is Currently down** :/ Got trouble while adding domain to GitHub settings
 
 - This account name is made older name to prevent any miss behavior against old account name (D-E-F-E-A-T)
 - I like to see what others are doing and so I follow each one of you who follows the main account
