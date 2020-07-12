@@ -6,7 +6,7 @@ Note: **Site is Currently down** :/ Got trouble while adding domain to GitHub se
 
 Portfolio: 1UC1F3R616.tech
 
-### Hi there 👋 [![](https://visitor-badge.glitch.me/badge?page_id=1UC1F3R616.1UC1F3R616)]()
+### Hi there 👋 [![](https://visitor-badge.glitch.me/badge?page_id=1UC1F3R616.1UC1F3R616)]()   [Visit Me](https://github.com/1UC1F3R616)
 
 <!--
 **1UC1F3R616/1UC1F3R616**
