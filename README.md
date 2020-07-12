@@ -1,6 +1,7 @@
 Note: **Site is Currently down** :/ Got trouble while adding domain to GitHub settings
 
 - **_This account name is made older name to prevent any miss behavior against old account name (D-E-F-E-A-T)_**
+- **I am A Kindda Non Human**
 
 <!-- I like to see what other fellow devs are doing and so I follow each one of you who follows the main account (2nd purpose of this account I suppose)-->
 
