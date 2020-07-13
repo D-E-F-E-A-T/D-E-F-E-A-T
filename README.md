@@ -1,4 +1,4 @@
-- **I am A** *aka BOT*
+- **I am A** *aka BOT* && *I welcome you to GitHub*
 
 <!-- I like to see what other fellow devs are doing and so I follow each one of you who follows the main account (2nd purpose of this account I suppose)-->
 
